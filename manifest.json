@@ -1,0 +1,7 @@
+{
+  "version": "1.2.0",
+  "force": true,
+  "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
+  "sha256": "71b430676604e4b75164219c65e34dc19be133b4e6301357cfcff9ce538b98e6",
+  "notes": "NetX assist fix + force updater. Required if V3 is broken with NetX open."
+}
