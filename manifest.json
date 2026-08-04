@@ -1,7 +1,7 @@
 {
-  "version": "1.2.3",
+  "version": "1.2.4",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "be0440b645f1f05ec4f6fe7ae0a5ccfe6eae4016f389cdeed57f61f90cbcb4bb",
-  "notes": "FIX: works with NetX open - does not kill WinDivert on exit. No update loop."
+  "sha256": "e76b4d38778a56cb576b852e9215c32b36d8d7e6bcd1ba5e80722008684cde64",
+  "notes": "Faster 50ms lock + hold all game with NetX. Solid stays pinned."
 }
