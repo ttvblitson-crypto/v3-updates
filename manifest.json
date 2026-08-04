@@ -3,5 +3,5 @@
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
   "sha256": "dc37818d14ba7c35bef0bd6a23cdeec97083643f84c2744051e93b865b57a8db",
-  "notes": "Built-in auto-update URL - no setup needed. Faster 50ms lock + NetX."
+  "notes": "Built-in auto-update URL - no setup needed."
 }
