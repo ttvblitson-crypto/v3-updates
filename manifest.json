@@ -1,7 +1,7 @@
 {
-  "version": "1.2.6",
+  "version": "1.2.7",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "8434874d1a9e19ebd5598ea8831aeb5a31133c824e158f64c7acbc2129b1d938",
-  "notes": "Cleaner UI status lines. Force update test."
+  "sha256": "3e8a558d8c7f4b592fae6e6f2e441bbdb8a030d4e3aaef5a3d66ccb4579f7067",
+  "notes": "V3 1.2.7 â€” cache-bust updater + ship"
 }
