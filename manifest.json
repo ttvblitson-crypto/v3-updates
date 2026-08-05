@@ -1,7 +1,7 @@
 {
-  "version": "1.2.7",
+  "version": "1.2.8",
   "force": true,
   "url": "https://cdn.jsdelivr.net/gh/ttvblitson-crypto/v3-updates@main/V3-Auto.exe",
-  "sha256": "c81b7419c79bc2069bbf3b10330bc5ce2673938ccb5b5dedef9f6bbdaff337c4",
-  "notes": "V3 1.2.7 auto-ship"
+  "sha256": "5657506c50529354b681f29261901c83f6f2e28a69f25b1c09b448c71fde6127",
+  "notes": "V3 1.2.8 auto-ship"
 }
