@@ -1,7 +1,7 @@
 {
-  "version": "1.7.4",
+  "version": "1.7.5",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "466749e1583ddd0916a20b59ec7b852596d37181c1f27114d1e4e7f28d54ab41",
-  "notes": "- All-game sticky SOLID (fresh-court feel forever)\n- Pure phase step never wall-snap mid-game\n- Size free + continuous 50 chain\n- Longer signal-lost debounce"
+  "sha256": "fe94ac1399c247b3369d6f2eea9cc30101c862012bb9cffba5a40bc449de20d9",
+  "notes": "- Between-game reset (~3s) clears IN/OUT loads\n- Next tip re-arms fresh solid 50\n- Sticky solid mid-game kept\n- Size free + pure lattice"
 }
