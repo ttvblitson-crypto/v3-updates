@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
+  "version": "1.6.2",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "abe3e6152e6feba837c26568221dbb750b23311cf1376b74e7a0f4282b9f416e",
-  "notes": "- Absolute epoch 50ms (long-session stable)\n- No free-fire dual stream delay\n- Continuous newest hold\n- Size free / no delay walk"
+  "sha256": "01fe475d0165b180d24df310f4ae96cc0e90a2dfbc57850cf87abd62f47e3b0f",
+  "notes": "- RESTORED perfect pure 50ms lattice\n- next = schedule+50 only (no walk)\n- Continuous newest / size free\n- Timing lock that felt right"
 }
