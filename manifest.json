@@ -1,7 +1,7 @@
 {
-  "version": "1.6.9",
+  "version": "1.7.0",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "081193f5e7c7f74ba810fb05b015f89edfb71f573cd9f05988aa0098fe216e6d",
-  "notes": "- MIX: NetX court logic + V3 pure 50\n- Size free grow (~112 floor, ~900+ full)\n- Live max raises with peak / NetX\n- Dual-layer + newest-wins SOLID 50"
+  "sha256": "3abc0ac08374107df5795d631d3568d261a4f6d50941379b1c59c778e47490d3",
+  "notes": "- RE: NetX::PacketCapture filters + cue timing\n- Exact NetX port filter + dual layers\n- Size free wire (~900+ full court)\n- V3 mix: pure 50 newest-wins cue hold"
 }
