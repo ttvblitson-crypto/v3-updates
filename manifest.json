@@ -1,7 +1,7 @@
 {
-  "version": "1.7.5",
+  "version": "1.7.6",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "fe94ac1399c247b3369d6f2eea9cc30101c862012bb9cffba5a40bc449de20d9",
-  "notes": "- Between-game reset (~3s) clears IN/OUT loads\n- Next tip re-arms fresh solid 50\n- Sticky solid mid-game kept\n- Size free + pure lattice"
+  "sha256": "fb324b04ca4052adca16d3363db864ba2dadce8bbb4e4006c0f1def52ea16708",
+  "notes": "- Flow solid kept across between-game UI clear\n- Pure 50 grid never wiped mid-session\n- IN/OUT counts still reset ~3s gap\n- Faster lock-in + stickier SOLID"
 }
