@@ -1,7 +1,7 @@
 {
-  "version": "1.3.2",
+  "version": "1.3.3",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "5b1065db3d8e9bb90b7b45bb1b44a0953e3a08b13c0005399673bcdbac14bac0",
-  "notes": "V3 1.3.2 auto-ship"
+  "sha256": "e4d781b987f68a88cfa7a66c2a9da9371bf23730b9a0679073ce4a746a16eec9",
+  "notes": "V3 1.3.3 auto-ship"
 }
