@@ -1,7 +1,7 @@
 {
-  "version": "1.5.6",
+  "version": "1.5.7",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "e04f5245569f7be661bf990417028965443938f07b1738bb77be22a84961b783",
-  "notes": "- OUT keeps pace: free-fire superseded pads\n- Newest still on pure 50ms lock\n- CV solid / size free\n- UI shows pace + reinject"
+  "sha256": "21f3d3d91b95a91e38430edf35ffe2f76a254dc35a3eadbde8bba9916dbbfd39",
+  "notes": "- Solid hold never leaves 50ms (no freeOut blackout)\n- Pace free + continuous lattice\n- NetX mode debounce (no flap)\n- Soft reseed only on long gap"
 }
