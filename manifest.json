@@ -1,7 +1,7 @@
 {
-  "version": "1.5.3",
+  "version": "1.5.4",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "7bd7e1484f8bcf38644344de8be05c3e3c9483aab9000bd0d79fae5e0465aea5",
-  "notes": "- Pure phase 50ms (no delay creep)\n- Stays locked after first snap\n- Size free + continuous lattice\n- Freeze fix kept"
+  "sha256": "f24a498a6bfba33f17b46612160cb2e6202145d479d2d7855ce8016d86db4485",
+  "notes": "- Tighter on-beat release (less chop)\n- No stale pad re-fire (tiny lag gone)\n- Pure phase 50ms / size free\n- Freeze fix kept"
 }
