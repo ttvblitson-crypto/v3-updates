@@ -1,7 +1,7 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "4984d860120259ac981d7d4bad6df07602ef9b959c38f6db5fce69268d6e26c8",
-  "notes": "- Dual-layer court (NET+FWD) fixes OUT 0\n- Stall no longer kills capture\n- Quit drops OUT when holding\n- Live OUT count + 50ms lock"
+  "sha256": "0f55d39437ad0c4d54d912ecedd94f4847eec5e86b9373d66ade229c0af9eee3",
+  "notes": "- Court entry BOOST â€” smooth from pad 1\n- Detects warm-up anomaly (suck til ~12)\n- Sticky 50 lattice / size still free\n- Dual-layer pin after first OUTs"
 }
