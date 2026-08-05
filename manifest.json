@@ -1,7 +1,7 @@
 {
-  "version": "1.7.3",
+  "version": "1.7.4",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "83e8bda90e3b7864c61d8bd716845574cb5e9d20bba3bcd1e878bc3037aae996",
-  "notes": "- Size FREE never stuck at 112 (live grows)\n- NetX UI: consec/interval/last size\n- Continuous pure-50 chain + tight wait\n- SOLID only when measured ~50ms"
+  "sha256": "466749e1583ddd0916a20b59ec7b852596d37181c1f27114d1e4e7f28d54ab41",
+  "notes": "- All-game sticky SOLID (fresh-court feel forever)\n- Pure phase step never wall-snap mid-game\n- Size free + continuous 50 chain\n- Longer signal-lost debounce"
 }
