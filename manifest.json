@@ -1,7 +1,7 @@
 {
-  "version": "1.7.1",
+  "version": "1.7.2",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "c603964d8ba764406a3f2d512d332338ae4022a89c596230b0f2890b2577c1e4",
-  "notes": "- Deep RE: NetX cue/cycle (OUT marker, IN response)\n- Pure 50 newest-wins solid hold mix\n- Size free wire ~900+ full court\n- Dual layer + exact NetX filters"
+  "sha256": "625b816bdfb66a9544a22ebe71f2749565220b69426d03f2b19da692da654956",
+  "notes": "- HYBRID timing fix: pure phase not wall clock\n- NetX cue metrics only (no phase thrash)\n- Solid 50 newest-wins lattice restored\n- Size free + dual layer + exact filters"
 }
