@@ -1,7 +1,7 @@
 {
-  "version": "1.4.8",
+  "version": "1.4.9",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "dbb9abcad2c4fbd60359ab5b45c31b697dec75867c86ab09bf590a3cacc9580e",
-  "notes": "- FREEZE FIX: every OUT reinjects in-line\n- No hold-queue that ate pads\n- Sticky 50 wait-then-send\n- Size free / dual-layer keep"
+  "sha256": "81ffe7375cda45916f9c4488b9924d05523d3a3d523a117c8a07ec9b9139a75f",
+  "notes": "- Freeze-after-seconds fix (recv never waits)\n- 50ms wait on playout only\n- Kernel queue drains / IN stays free\n- No mid-court stack thrash"
 }
