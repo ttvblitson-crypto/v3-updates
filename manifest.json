@@ -1,7 +1,7 @@
 {
-  "version": "1.6.7",
+  "version": "1.6.8",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "e3dcf3068977304cd666b22d7d0b8af465d9d0a2aaeb3b2a41687790578e261a",
-  "notes": "- NetX dual system + clean pure 50 hold\n- Newest-wins slot (no free-super dual)\n- Size free + NetX out_size watch\n- Dual-layer pin + SOLID 50"
+  "sha256": "5b052e9a6fee78fc4fbf963bdc2db2a3ec6ec6467093c7b8eacef54196826530",
+  "notes": "- Size max ~960B (full court ~900+ like NetX)\n- NetX dual + clean pure 50 hold\n- Newest-wins slot, size free\n- Dual-layer pin + SOLID 50"
 }
