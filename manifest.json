@@ -1,7 +1,7 @@
 {
-  "version": "1.4.1",
+  "version": "1.4.2",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "7eeeb4ef00de92534a958dadada3a4adcf0dc03a3c657ebb2073b02f8c6b2ba4",
+  "sha256": "df92cb2f78e2faca43918b77f373c0f9af1cea850b58c035ff797acc8688d250",
   "notes": "OUT lock + free IN. NetX open/close reconnects court. Cleaner update UI."
 }
