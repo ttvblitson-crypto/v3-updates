@@ -1,7 +1,7 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "b5d82c1c3470ac367192c3ca3bbd627fd11bfb8a5a4d33ef6d5c14b707ec3bdd",
-  "notes": "- Update box: RGB + live progress bar\n- Click UPDATE downloads then reopens V3\n- OUT 50ms lock + live count\n- IN free / NetX reconnect"
+  "sha256": "4984d860120259ac981d7d4bad6df07602ef9b959c38f6db5fce69268d6e26c8",
+  "notes": "- Dual-layer court (NET+FWD) fixes OUT 0\n- Stall no longer kills capture\n- Quit drops OUT when holding\n- Live OUT count + 50ms lock"
 }
