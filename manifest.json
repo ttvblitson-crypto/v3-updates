@@ -1,7 +1,7 @@
 {
-  "version": "1.7.0",
+  "version": "1.7.1",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "3abc0ac08374107df5795d631d3568d261a4f6d50941379b1c59c778e47490d3",
-  "notes": "- RE: NetX::PacketCapture filters + cue timing\n- Exact NetX port filter + dual layers\n- Size free wire (~900+ full court)\n- V3 mix: pure 50 newest-wins cue hold"
+  "sha256": "c603964d8ba764406a3f2d512d332338ae4022a89c596230b0f2890b2577c1e4",
+  "notes": "- Deep RE: NetX cue/cycle (OUT marker, IN response)\n- Pure 50 newest-wins solid hold mix\n- Size free wire ~900+ full court\n- Dual layer + exact NetX filters"
 }
