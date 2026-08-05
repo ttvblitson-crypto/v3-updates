@@ -1,7 +1,7 @@
 {
-  "version": "1.6.8",
+  "version": "1.6.9",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "5b052e9a6fee78fc4fbf963bdc2db2a3ec6ec6467093c7b8eacef54196826530",
-  "notes": "- Size max ~960B (full court ~900+ like NetX)\n- NetX dual + clean pure 50 hold\n- Newest-wins slot, size free\n- Dual-layer pin + SOLID 50"
+  "sha256": "081193f5e7c7f74ba810fb05b015f89edfb71f573cd9f05988aa0098fe216e6d",
+  "notes": "- MIX: NetX court logic + V3 pure 50\n- Size free grow (~112 floor, ~900+ full)\n- Live max raises with peak / NetX\n- Dual-layer + newest-wins SOLID 50"
 }
