@@ -1,7 +1,7 @@
 {
-  "version": "1.4.7",
+  "version": "1.4.8",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "b4332e5fa87aa5dcdf980a867fb5a07c9e9114a30c0001f6ee10fba40e78dd99",
-  "notes": "- FIX: no more insta-freeze on court entry\n- Soft boost (never drop held pads)\n- Send retries both layers\n- Sticky 50 lock / size free"
+  "sha256": "dbb9abcad2c4fbd60359ab5b45c31b697dec75867c86ab09bf590a3cacc9580e",
+  "notes": "- FREEZE FIX: every OUT reinjects in-line\n- No hold-queue that ate pads\n- Sticky 50 wait-then-send\n- Size free / dual-layer keep"
 }
