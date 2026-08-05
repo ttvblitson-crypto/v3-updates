@@ -1,7 +1,7 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "21f3d3d91b95a91e38430edf35ffe2f76a254dc35a3eadbde8bba9916dbbfd39",
-  "notes": "- Solid hold never leaves 50ms (no freeOut blackout)\n- Pace free + continuous lattice\n- NetX mode debounce (no flap)\n- Soft reseed only on long gap"
+  "sha256": "d68605eb406a6a67bd27678d22f88cf0fbd85ecda959ea8a68303a995c3830dc",
+  "notes": "- Fix: reseed no longer kills continuous hold\n- Lock from first packets (not after 1000)\n- Reseed debounced 8s / gap 4s\n- Pace + pure 50ms kept"
 }
