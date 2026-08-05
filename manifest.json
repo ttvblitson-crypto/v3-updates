@@ -1,7 +1,7 @@
 {
-  "version": "1.6.5",
+  "version": "1.6.6",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "99af95b76d6d66b57727a584de3fb5d7176d9d6884027d572b86879e583890f2",
-  "notes": "- Watch NetX live out_size (grows)\n- Size free ~112 floor to ~502 max\n- UI peak/max like NetX\n- Zero hold delay kept"
+  "sha256": "a4bbcf7faeaa89f22567f6b306b1ed0a97de936bfed6bc0b6982f8f3aa001231",
+  "notes": "- IN free / OUT pure 50 (NetX dual better)\n- Free-super + lattice once (no lag pile)\n- Size free + NetX out_size watch\n- Dual-layer pin + solid hold"
 }
