@@ -1,7 +1,7 @@
 {
-  "version": "1.4.3",
+  "version": "1.4.4",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "9ba0698ff3c9729abd5bccdaf9bd9724389723e2755991919071bddf3e3ccf6a",
-  "notes": "- OUT locked 50ms + live OUT count\n- IN free / natural timing\n- NetX open-close reconnects court\n- Size grows with more players"
+  "sha256": "b5d82c1c3470ac367192c3ca3bbd627fd11bfb8a5a4d33ef6d5c14b707ec3bdd",
+  "notes": "- Update box: RGB + live progress bar\n- Click UPDATE downloads then reopens V3\n- OUT 50ms lock + live count\n- IN free / NetX reconnect"
 }
