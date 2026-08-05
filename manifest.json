@@ -1,7 +1,7 @@
 {
-  "version": "1.5.9",
+  "version": "1.6.1",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "713453dfd36cc5f05607e20c60d7f907edb46b4534f0e0c337aca780246fe7d5",
-  "notes": "- Every OUT reinjected once (no drops)\n- 50ms beat fires whole burst\n- No pace / no stale re-fire delay\n- Clean inÂ·outÂ·sent counts"
+  "sha256": "abe3e6152e6feba837c26568221dbb750b23311cf1376b74e7a0f4282b9f416e",
+  "notes": "- Absolute epoch 50ms (long-session stable)\n- No free-fire dual stream delay\n- Continuous newest hold\n- Size free / no delay walk"
 }
