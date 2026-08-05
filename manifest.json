@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "e1fc87a1cd1668a4b38f8c54fb8e8a0c88d759a7c3faaf1c2eedd84506d4969d",
-  "notes": "- Continuous solid 50ms lattice\n- SIZE fully free (no pad/clamp)\n- Live size + peak on UI\n- Freeze fix / join recover kept"
+  "sha256": "7bd7e1484f8bcf38644344de8be05c3e3c9483aab9000bd0d79fae5e0465aea5",
+  "notes": "- Pure phase 50ms (no delay creep)\n- Stays locked after first snap\n- Size free + continuous lattice\n- Freeze fix kept"
 }
