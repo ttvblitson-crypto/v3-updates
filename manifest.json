@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "0f55d39437ad0c4d54d912ecedd94f4847eec5e86b9373d66ade229c0af9eee3",
-  "notes": "- Court entry BOOST â€” smooth from pad 1\n- Detects warm-up anomaly (suck til ~12)\n- Sticky 50 lattice / size still free\n- Dual-layer pin after first OUTs"
+  "sha256": "b4332e5fa87aa5dcdf980a867fb5a07c9e9114a30c0001f6ee10fba40e78dd99",
+  "notes": "- FIX: no more insta-freeze on court entry\n- Soft boost (never drop held pads)\n- Send retries both layers\n- Sticky 50 lock / size free"
 }
