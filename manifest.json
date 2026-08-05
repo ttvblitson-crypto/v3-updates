@@ -1,7 +1,7 @@
 {
-  "version": "1.7.2",
+  "version": "1.7.3",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "625b816bdfb66a9544a22ebe71f2749565220b69426d03f2b19da692da654956",
-  "notes": "- HYBRID timing fix: pure phase not wall clock\n- NetX cue metrics only (no phase thrash)\n- Solid 50 newest-wins lattice restored\n- Size free + dual layer + exact filters"
+  "sha256": "83e8bda90e3b7864c61d8bd716845574cb5e9d20bba3bcd1e878bc3037aae996",
+  "notes": "- Size FREE never stuck at 112 (live grows)\n- NetX UI: consec/interval/last size\n- Continuous pure-50 chain + tight wait\n- SOLID only when measured ~50ms"
 }
