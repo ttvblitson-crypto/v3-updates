@@ -1,7 +1,7 @@
 {
-  "version": "1.6.3",
+  "version": "1.6.4",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "be9e206f36164d8377cbdadaa0852afb3c5c442259f59883b0b372e356b2a19a",
-  "notes": "- FIX massive lag: no stale pad re-fire\n- Free-fire superseded ASAP\n- Newest pure 50ms once\n- Size free / solid lock"
+  "sha256": "342dcec72a1448310ef3ed23ebbfeeed8eaa061d11ea39175f3f03f5a9a4b21e",
+  "notes": "- ZERO hold delay â€” all OUT fire ASAP\n- No queue wait (lag root cause)\n- in/out/sent 1:1\n- Size free"
 }
