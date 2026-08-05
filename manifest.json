@@ -1,7 +1,7 @@
 {
-  "version": "1.5.0",
+  "version": "1.5.1",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "f3f9921516401d8afa02fb3288e29fafe5a3b3400bae8dd389841217e04ef788",
-  "notes": "- Stable sticky 50ms phase lock\n- Join/load gap: free-fire recovery (no daze)\n- No session wipe mid-game\n- Size free / recv never blocks"
+  "sha256": "4a894b7989b5d981dfe871898c500449eee90b2839d0c7e9b0821bf6d7c51cf2",
+  "notes": "- 1.4.9 lock feel restored\n- Freeze fix kept (recv never waits)\n- Brief join recovery only (1s)\n- Size free / SOLID 50"
 }
