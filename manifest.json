@@ -1,7 +1,7 @@
 {
-  "version": "1.5.8",
+  "version": "1.5.9",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "d68605eb406a6a67bd27678d22f88cf0fbd85ecda959ea8a68303a995c3830dc",
-  "notes": "- Fix: reseed no longer kills continuous hold\n- Lock from first packets (not after 1000)\n- Reseed debounced 8s / gap 4s\n- Pace + pure 50ms kept"
+  "sha256": "713453dfd36cc5f05607e20c60d7f907edb46b4534f0e0c337aca780246fe7d5",
+  "notes": "- Every OUT reinjected once (no drops)\n- 50ms beat fires whole burst\n- No pace / no stale re-fire delay\n- Clean inÂ·outÂ·sent counts"
 }
