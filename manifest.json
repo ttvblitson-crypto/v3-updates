@@ -1,7 +1,7 @@
 {
-  "version": "1.5.1",
+  "version": "1.5.2",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "4a894b7989b5d981dfe871898c500449eee90b2839d0c7e9b0821bf6d7c51cf2",
-  "notes": "- 1.4.9 lock feel restored\n- Freeze fix kept (recv never waits)\n- Brief join recovery only (1s)\n- Size free / SOLID 50"
+  "sha256": "e1fc87a1cd1668a4b38f8c54fb8e8a0c88d759a7c3faaf1c2eedd84506d4969d",
+  "notes": "- Continuous solid 50ms lattice\n- SIZE fully free (no pad/clamp)\n- Live size + peak on UI\n- Freeze fix / join recover kept"
 }
