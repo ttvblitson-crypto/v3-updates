@@ -1,7 +1,7 @@
 {
-  "version": "1.6.4",
+  "version": "1.6.5",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "342dcec72a1448310ef3ed23ebbfeeed8eaa061d11ea39175f3f03f5a9a4b21e",
-  "notes": "- ZERO hold delay â€” all OUT fire ASAP\n- No queue wait (lag root cause)\n- in/out/sent 1:1\n- Size free"
+  "sha256": "99af95b76d6d66b57727a584de3fb5d7176d9d6884027d572b86879e583890f2",
+  "notes": "- Watch NetX live out_size (grows)\n- Size free ~112 floor to ~502 max\n- UI peak/max like NetX\n- Zero hold delay kept"
 }
