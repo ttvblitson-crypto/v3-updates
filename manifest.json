@@ -1,7 +1,7 @@
 {
-  "version": "1.4.9",
+  "version": "1.5.0",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "81ffe7375cda45916f9c4488b9924d05523d3a3d523a117c8a07ec9b9139a75f",
-  "notes": "- Freeze-after-seconds fix (recv never waits)\n- 50ms wait on playout only\n- Kernel queue drains / IN stays free\n- No mid-court stack thrash"
+  "sha256": "f3f9921516401d8afa02fb3288e29fafe5a3b3400bae8dd389841217e04ef788",
+  "notes": "- Stable sticky 50ms phase lock\n- Join/load gap: free-fire recovery (no daze)\n- No session wipe mid-game\n- Size free / recv never blocks"
 }
