@@ -1,7 +1,7 @@
 {
-  "version": "1.7.6",
+  "version": "1.7.7",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "fb324b04ca4052adca16d3363db864ba2dadce8bbb4e4006c0f1def52ea16708",
-  "notes": "- Flow solid kept across between-game UI clear\n- Pure 50 grid never wiped mid-session\n- IN/OUT counts still reset ~3s gap\n- Faster lock-in + stickier SOLID"
+  "sha256": "d7efbb7f37846b9ec42f6cd382713dde233e3f9aa3c99915a598638f2269f764",
+  "notes": "- Fix mid-game delay waves (max wait 50ms)\n- No future-skew schedule holds\n- Between-game UI clear only (lattice stays)\n- Less mode-switch thrash"
 }
