@@ -1,7 +1,7 @@
 {
-  "version": "1.7.9",
+  "version": "1.8.0",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "b2553b7edb97305d4e7463a8ddbedbd9b56b1c027ef831efad8798a7d990acab",
-  "notes": "- Sticky solid all court (inconsistent fixed)\n- Auto-heal delay spikes back to pure 50\n- No multi-second holds\n- Between-game UI clear kept"
+  "sha256": "80e4512e1ce8a735bdfa4a9f8e977fa1d6da9d3f04c76e3e9a6a4e3a8596cc2f",
+  "notes": "- Kill delay/perfect flip-flop (no heal thrash)\n- One sticky pure-50 mode all court\n- Phase never wall re-anchors mid-game\n- Max wait one period only"
 }
