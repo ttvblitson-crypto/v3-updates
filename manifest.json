@@ -1,7 +1,7 @@
 {
-  "version": "1.7.8",
+  "version": "1.7.9",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "b62951118ac91e2c8ac4b91cc555a185aad5bd48d18b849a488adb8dc3833c4e",
-  "notes": "- Rollback to 1.7.6 pure lattice feel\n- Removed wall-snap delay from 1.7.7\n- Between-game UI clear kept\n- Pathological future clamp only"
+  "sha256": "b2553b7edb97305d4e7463a8ddbedbd9b56b1c027ef831efad8798a7d990acab",
+  "notes": "- Sticky solid all court (inconsistent fixed)\n- Auto-heal delay spikes back to pure 50\n- No multi-second holds\n- Between-game UI clear kept"
 }
