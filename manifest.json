@@ -1,7 +1,7 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "80e4512e1ce8a735bdfa4a9f8e977fa1d6da9d3f04c76e3e9a6a4e3a8596cc2f",
-  "notes": "- Kill delay/perfect flip-flop (no heal thrash)\n- One sticky pure-50 mode all court\n- Phase never wall re-anchors mid-game\n- Max wait one period only"
+  "sha256": "2454c5c7cde4f7e3dc18e5fff289a6b07a0d3c38f5e01ab0adda3c68fa4b9a47",
+  "notes": "- Restored 1.7.2 pure lattice feel\n- Newest-wins pure last+50 (no heal thrash)\n- Size free + between-game UI clear\n- SOLID from measured ~50 only"
 }
