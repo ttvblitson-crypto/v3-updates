@@ -1,7 +1,7 @@
 {
-  "version": "1.9.5",
+  "version": "1.9.6",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "4b076fa847b67f0e7f80053b901bf2a7e2bcfc591946559500ff2ce012ec1f88",
-  "notes": "- Restored solid-50 min-spacing court timing (best feel)\n- Newest-wins lastWire+50 OUT lattice; free IN kept\n- Soft auto-sync + adaptive ticker (no thrash)\n- UI clean; size free (no pad); force update"
+  "sha256": "b94e42d190e3757a1b61625da09ad5de11a29febd26cd869bb9b1f7ad8849800",
+  "notes": "- NetX-style sync offset + auto adjust (adapt to court late)\n- Lattice uses 50+offset; catches delay without thrash\n- Sticky ticker LOCKED (no IN/LOCKED flicker)\n- Free IN; soft auto-sync kept; force update"
 }
