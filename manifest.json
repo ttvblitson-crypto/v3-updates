@@ -1,7 +1,7 @@
 {
-  "version": "1.9.6",
+  "version": "1.9.7",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "b94e42d190e3757a1b61625da09ad5de11a29febd26cd869bb9b1f7ad8849800",
-  "notes": "- NetX-style sync offset + auto adjust (adapt to court late)\n- Lattice uses 50+offset; catches delay without thrash\n- Sticky ticker LOCKED (no IN/LOCKED flicker)\n- Free IN; soft auto-sync kept; force update"
+  "sha256": "2ece6c9bffcebe7773b532bffe85f2c82b99de0a1c0dc3839869f2b4db8c7520",
+  "notes": "- Faster catch-up when court throws timing (2â€“4 beats)\n- Bottom status sticky (no lat 996 / size flicker)\n- Idle no longer inflates latency display\n- Offset+adjust kept; force update"
 }
