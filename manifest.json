@@ -1,7 +1,7 @@
 {
-  "version": "1.9.8",
+  "version": "2.0.0",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "c91a3d8da293a81890e9f7aa03a3d57f0e8d83bf3869334d5cfc6baa720dfdc0",
-  "notes": "- FINAL: mid-game lag spiral fix (why reopen helped)\n- Hybrid free-pass when spaced; flood coalesce only\n- Fresh-open auto when hold/IN-OUT lag accumulates\n- Max 12ms hold; no 38ms catch lock; less resync thrash"
+  "sha256": "ece971029c110554b4de34b68ba830f5685187f9abe6b2194e78321914699317",
+  "notes": "- V2.0.0\n- Footer RGB fixed (between games / out line)\n- Quit ON hard-drops ALL packets (IN+OUT, no exceptions)\n- Timing lattice unchanged from 1.9.8"
 }
