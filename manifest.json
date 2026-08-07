@@ -1,7 +1,7 @@
 {
-  "version": "1.8.8",
+  "version": "1.8.9",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "9099ed2e95e71a975cd55ca2b7e88c5fd9508d0af4b7fc32e81316502823e7e2",
-  "notes": "- NetX-twin free-pass OUT (equal IN/OUT counts, zero hold delay)\n- Flood-gate only if spray under 38ms\n- Removed 112 free UI forever\n- Live size always latest real wire"
+  "sha256": "d76388ca8d7961278102f17d5aafecf83325f79218d196024a00791023849700",
+  "notes": "- OUT pads to match IN size (NetX mirror)\n- Free-pass both ways = equal packet totals\n- Mirror target grows with court IN\n- No more stuck 112 OUT while IN is 202"
 }
