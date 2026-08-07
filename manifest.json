@@ -1,7 +1,7 @@
 {
-  "version": "1.9.0",
+  "version": "1.9.2",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "d0656cbe12709f52db873e169857c25ec8849c8a77163951efaa5cbf173b5e58",
-  "notes": "- Auto Sync: re-acquire on court IP / UDP port hop / traffic gap\n- Ticker Latency + Delay UI (Secret v2 style)\n- Playing Game indicator + resync counter\n- Free-pass stable (no pad/dedup freeze)"
+  "sha256": "a98d97fc9d2720b95ec0f5eb4a69d914163486106ab3d6407147f8d844d419d3",
+  "notes": "- Real court Ticker beat clock (50ms phase lock)\n- LOCKED drives SOLID; HITCH drives Auto Sync re-lock\n- Light PLL keeps beat glued without holding pads\n- Live ticker latency rises during blips before re-sync"
 }
