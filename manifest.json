@@ -1,7 +1,7 @@
 {
-  "version": "1.8.10",
+  "version": "1.8.11",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "b20e62592b3181d47a6afde407d1b6e9d1527fe5c6e8fd983df77386df642f97",
-  "notes": "- FIX freeze: never Send under recv lock (deadlock)\n- Safe UDP checksum (odd length)\n- Free-pass only (no flood-gate queue)\n- OUT still mirrors IN size"
+  "sha256": "f21a03412c45b9b0a7e29cfceeea5cca13815611173627590dfc15ca03dfe31b",
+  "notes": "- QUICK FIX freeze: removed pad + dedup (were locking court)\n- Pure free-pass IN and OUT like NetX\n- Totals stay in sync\n- DSCP only when stabilizer on"
 }
