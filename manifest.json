@@ -1,7 +1,7 @@
 {
-  "version": "1.8.4",
+  "version": "1.8.5",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "8270dfe955ae50e48ae1742b69b07150776716358d1c7ec3c82550dca46aa4ad",
-  "notes": "- FIX: removed lag-reseed thrash (was delay on/off every ~20s)\n- Sticky rate-limit 50 from actual wire time\n- Solid hysteresis (no unlock on 46/54 noise)\n- Hold 0-50ms is normal lattice, not a fault"
+  "sha256": "05473def68a7c18aca00721e2c0596b13008c2872949ad3589e27e5a04eda937",
+  "notes": "- Cut-throat hold shed (no reseed thrash)\n- Early fire at 47ms when hold stacks (30/38ms)\n- ~0.4ms timer lead kills 51-52 creep\n- Stays SOLID 45-55; perfect feel recovers faster"
 }
