@@ -1,7 +1,7 @@
 {
-  "version": "1.8.7",
+  "version": "1.8.8",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "ac8d664f6a0d2006aa1f2e6b4e60d268405464b39a5371d518050a1788019a66",
-  "notes": "- NetX-synced wire stats (Total/Consec/Avg/Size)\n- Min-spacing 50 from last WIRE (ASAP when free = no delay stack)\n- Dual-layer dedup\n- Real wire sizes never stuck on 112 floor\n- SYNCED 50 badge when IN/OUT match"
+  "sha256": "9099ed2e95e71a975cd55ca2b7e88c5fd9508d0af4b7fc32e81316502823e7e2",
+  "notes": "- NetX-twin free-pass OUT (equal IN/OUT counts, zero hold delay)\n- Flood-gate only if spray under 38ms\n- Removed 112 free UI forever\n- Live size always latest real wire"
 }
