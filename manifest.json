@@ -1,7 +1,7 @@
 {
-  "version": "1.8.3",
+  "version": "1.8.4",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "670f84a841af86d8f5dd957498c8b27e04bbc66be26ec7e383b2ad63b007b50b",
-  "notes": "- Mid-game lag detect + auto reseed\n- Honest SOLID (measured 48-52 only)\n- Cap hold / never schedule far future\n- Fixed broken prior AI patches (build clean)\n- Queue restore + tighter wait timer"
+  "sha256": "8270dfe955ae50e48ae1742b69b07150776716358d1c7ec3c82550dca46aa4ad",
+  "notes": "- FIX: removed lag-reseed thrash (was delay on/off every ~20s)\n- Sticky rate-limit 50 from actual wire time\n- Solid hysteresis (no unlock on 46/54 noise)\n- Hold 0-50ms is normal lattice, not a fault"
 }
