@@ -1,7 +1,7 @@
 {
-  "version": "1.9.7",
+  "version": "1.9.8",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "2ece6c9bffcebe7773b532bffe85f2c82b99de0a1c0dc3839869f2b4db8c7520",
-  "notes": "- Faster catch-up when court throws timing (2â€“4 beats)\n- Bottom status sticky (no lat 996 / size flicker)\n- Idle no longer inflates latency display\n- Offset+adjust kept; force update"
+  "sha256": "c91a3d8da293a81890e9f7aa03a3d57f0e8d83bf3869334d5cfc6baa720dfdc0",
+  "notes": "- FINAL: mid-game lag spiral fix (why reopen helped)\n- Hybrid free-pass when spaced; flood coalesce only\n- Fresh-open auto when hold/IN-OUT lag accumulates\n- Max 12ms hold; no 38ms catch lock; less resync thrash"
 }
