@@ -1,7 +1,7 @@
 {
-  "version": "1.8.1",
+  "version": "1.8.3",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "2454c5c7cde4f7e3dc18e5fff289a6b07a0d3c38f5e01ab0adda3c68fa4b9a47",
-  "notes": "- Restored 1.7.2 pure lattice feel\n- Newest-wins pure last+50 (no heal thrash)\n- Size free + between-game UI clear\n- SOLID from measured ~50 only"
+  "sha256": "670f84a841af86d8f5dd957498c8b27e04bbc66be26ec7e383b2ad63b007b50b",
+  "notes": "- Mid-game lag detect + auto reseed\n- Honest SOLID (measured 48-52 only)\n- Cap hold / never schedule far future\n- Fixed broken prior AI patches (build clean)\n- Queue restore + tighter wait timer"
 }
