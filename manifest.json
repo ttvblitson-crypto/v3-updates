@@ -1,7 +1,7 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.7",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "dcd29d2ae8af547892795406e4cfc80ba0e98593429fcaee43ae50431558b4e5",
-  "notes": "- DEFINITIVE pure phase-locked 50 lattice\n- REMOVED hold-shed (was causing frequent delay glitches)\n- REMOVED reseed thrash\n- Precision wait (one-shot timer + hard spin)\n- Phase = scheduled beat not wall — self-heals tempo\n- Solid locks hard, unlocks slow"
+  "sha256": "ac8d664f6a0d2006aa1f2e6b4e60d268405464b39a5371d518050a1788019a66",
+  "notes": "- NetX-synced wire stats (Total/Consec/Avg/Size)\n- Min-spacing 50 from last WIRE (ASAP when free = no delay stack)\n- Dual-layer dedup\n- Real wire sizes never stuck on 112 floor\n- SYNCED 50 badge when IN/OUT match"
 }
