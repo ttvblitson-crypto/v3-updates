@@ -1,7 +1,7 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "05473def68a7c18aca00721e2c0596b13008c2872949ad3589e27e5a04eda937",
-  "notes": "- Cut-throat hold shed (no reseed thrash)\n- Early fire at 47ms when hold stacks (30/38ms)\n- ~0.4ms timer lead kills 51-52 creep\n- Stays SOLID 45-55; perfect feel recovers faster"
+  "sha256": "dcd29d2ae8af547892795406e4cfc80ba0e98593429fcaee43ae50431558b4e5",
+  "notes": "- DEFINITIVE pure phase-locked 50 lattice\n- REMOVED hold-shed (was causing frequent delay glitches)\n- REMOVED reseed thrash\n- Precision wait (one-shot timer + hard spin)\n- Phase = scheduled beat not wall — self-heals tempo\n- Solid locks hard, unlocks slow"
 }
