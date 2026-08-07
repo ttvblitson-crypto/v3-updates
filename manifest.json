@@ -1,7 +1,7 @@
 {
-  "version": "1.8.11",
+  "version": "1.9.0",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "f21a03412c45b9b0a7e29cfceeea5cca13815611173627590dfc15ca03dfe31b",
-  "notes": "- QUICK FIX freeze: removed pad + dedup (were locking court)\n- Pure free-pass IN and OUT like NetX\n- Totals stay in sync\n- DSCP only when stabilizer on"
+  "sha256": "d0656cbe12709f52db873e169857c25ec8849c8a77163951efaa5cbf173b5e58",
+  "notes": "- Auto Sync: re-acquire on court IP / UDP port hop / traffic gap\n- Ticker Latency + Delay UI (Secret v2 style)\n- Playing Game indicator + resync counter\n- Free-pass stable (no pad/dedup freeze)"
 }
