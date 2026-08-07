@@ -1,7 +1,7 @@
 {
-  "version": "1.9.2",
+  "version": "1.9.3",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "a98d97fc9d2720b95ec0f5eb4a69d914163486106ab3d6407147f8d844d419d3",
-  "notes": "- Real court Ticker beat clock (50ms phase lock)\n- LOCKED drives SOLID; HITCH drives Auto Sync re-lock\n- Light PLL keeps beat glued without holding pads\n- Live ticker latency rises during blips before re-sync"
+  "sha256": "25ecff57577c403f4d4b2ca5fa335f12fa75e72a72ace1a971a62c8bd2b23798",
+  "notes": "- FIX: stop resync thrash (was ruining rest of game after ~1s)\n- Adaptive ticker beat from live gaps (~46-50) not forced 50\n- Soft re-lock keeps SOLID; 2s cooldown\n- UI compact: no driver OK, everything visible"
 }
