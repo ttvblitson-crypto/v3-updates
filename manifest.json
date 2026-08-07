@@ -1,7 +1,7 @@
 {
-  "version": "1.8.9",
+  "version": "1.8.10",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "d76388ca8d7961278102f17d5aafecf83325f79218d196024a00791023849700",
-  "notes": "- OUT pads to match IN size (NetX mirror)\n- Free-pass both ways = equal packet totals\n- Mirror target grows with court IN\n- No more stuck 112 OUT while IN is 202"
+  "sha256": "b20e62592b3181d47a6afde407d1b6e9d1527fe5c6e8fd983df77386df642f97",
+  "notes": "- FIX freeze: never Send under recv lock (deadlock)\n- Safe UDP checksum (odd length)\n- Free-pass only (no flood-gate queue)\n- OUT still mirrors IN size"
 }
