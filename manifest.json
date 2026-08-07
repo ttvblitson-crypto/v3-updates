@@ -1,7 +1,7 @@
 {
-  "version": "1.9.4",
+  "version": "1.9.5",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "f08c68907165f40ed61aa28af8e56e4ffc1d743b82ef9056c84b0a349d7dbf11",
-  "notes": "- OUT size follows court/IN (no sticky 112)\n- Removed bottom Mirror/size line\n- Cleaner traffic UI"
+  "sha256": "4b076fa847b67f0e7f80053b901bf2a7e2bcfc591946559500ff2ce012ec1f88",
+  "notes": "- Restored solid-50 min-spacing court timing (best feel)\n- Newest-wins lastWire+50 OUT lattice; free IN kept\n- Soft auto-sync + adaptive ticker (no thrash)\n- UI clean; size free (no pad); force update"
 }
