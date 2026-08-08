@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.2",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "dbf2af7b2cc9dc783af02e38ec074b1db570f678732aa50446c5bd4261ae3ab4",
-  "notes": "- Cue delay checkbox on Traffic (NetX-style OUT queue test)\n- When ON: no free-pass OUT â€” hold queue like cue_delay=true\n- Independent of sync value; for meter-late A/B on court"
+  "sha256": "5bc098f5cb989f00e3c06dea41c4f3f95ab3194c48cdcc15e411aa493ee40268",
+  "notes": "- Stability fixes"
 }
