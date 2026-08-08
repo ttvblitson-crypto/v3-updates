@@ -1,7 +1,7 @@
 {
-  "version": "2.0.0",
+  "version": "2.0.1",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "ece971029c110554b4de34b68ba830f5685187f9abe6b2194e78321914699317",
-  "notes": "- V2.0.0\n- Footer RGB fixed (between games / out line)\n- Quit ON hard-drops ALL packets (IN+OUT, no exceptions)\n- Timing lattice unchanged from 1.9.8"
+  "sha256": "9935a7ce80aa0d5c3c1603b136d25ffab627b240d05c515b13f3edfabba9f741",
+  "notes": "- Cue delay checkbox on Traffic (NetX-style OUT queue test)\n- When ON: no free-pass OUT â€” hold queue like cue_delay=true\n- Independent of sync value; for meter-late A/B on court"
 }
