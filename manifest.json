@@ -1,7 +1,8 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.4",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "5bc098f5cb989f00e3c06dea41c4f3f95ab3194c48cdcc15e411aa493ee40268",
-  "notes": "- Stability fixes"
+  "sha256": "2328dd13eaf3e62c93cb80e59d3133eebe9e4062285c7a42116bd391753f6221",
+  "notes": "- Court remote switch re-lock
+- No more lag-score thrash"
 }
