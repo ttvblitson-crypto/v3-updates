@@ -1,7 +1,7 @@
 {
-  "version": "2.0.6",
+  "version": "2.0.7",
   "force": true,
   "url": "https://raw.githubusercontent.com/ttvblitson-crypto/v3-updates/main/V3-Auto.exe",
-  "sha256": "ec876e9edd91628dc9e423375dfe8e0c66307e7c0734374545126b3cb8431757",
+  "sha256": "a1b08c21b3474023502a6b096049790c2ece62e0071f92bd62c5a4023701a13c",
   "notes": "- Stability fixes"
 }
